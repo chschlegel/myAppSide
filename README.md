@@ -1,0 +1,2 @@
+# myAppSide
+Example Git Project
